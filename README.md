@@ -67,25 +67,13 @@ Built enterprise ETL pipelines integrating 35+ banking applications into Snowfla
 
 Python, LangGraph, Snowflake Cortex, FastAPI, Kubernetes. A supervisor LangGraph workflow coordinating analysis, retrieval, and investigation agents with shared state, integrating Cortex Analyst/Search and enterprise REST tools with approvals, retries, and step limits. Deployed as containerized Kubernetes services and evaluated across 50 scenarios covering routing, SQL validity, groundedness, tool failures, and unauthorized actions.
 
-<a href="https://github.com/rethickvis/multi-agent-ops-intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rethickvis&repo=multi-agent-ops-intelligence" alt="Multi-Agent Operations Intelligence Platform" />
-</a>
-
 **[Distributed AI Data Preparation Pipeline](https://github.com/rethickvis/distributed-ai-data-pipeline)**
 
 Python, Apache Spark, Kafka, Airflow, Snowflake. Distributed Spark pipelines that cleanse, enrich, validate, and aggregate streaming Kafka events into curated Snowflake datasets supporting analytics and agentic AI workloads, with checkpointing, schema enforcement, deduplication, replay controls, and automated Airflow orchestration.
 
-<a href="https://github.com/rethickvis/distributed-ai-data-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rethickvis&repo=distributed-ai-data-pipeline" alt="Distributed AI Data Preparation Pipeline" />
-</a>
-
 ## 🎓 Education
 
 **M.S. Cybersecurity and Information Assurance**, Roosevelt University, Chicago, IL &mdash; *Jan 2024 to Dec 2025*
-
-## 📊 GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rethickvis&show_icons=true&count_private=true)
 
 ---
 
