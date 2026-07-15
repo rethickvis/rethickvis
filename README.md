@@ -11,7 +11,7 @@
 
 Data Engineer with 5+ years of experience designing and building Python, SQL, Spark, Databricks, Snowflake, and cloud-native data platforms. Hands-on with Kafka, Apache Airflow, LangGraph, OpenAI, RAG, MLflow, MLOps, Lakehouse architectures, and streaming pipelines for enterprise AI, real-time analytics, and intelligent automation.
 
-## 🛠️ Technical skills
+## Technical skills
 
 **Programming &amp; data engineering**
 
@@ -51,7 +51,7 @@ Data Engineer with 5+ years of experience designing and building Python, SQL, Sp
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-## 💼 Experience
+## Experience
 
 **Data Engineer, NielsenIQ** &mdash; *May 2024 to Present*
 
@@ -61,7 +61,7 @@ Building a Databricks Lakehouse processing 15+ TB of daily global retail data, e
 
 Built enterprise ETL pipelines integrating 35+ banking applications into Snowflake using Spark and Airflow, real-time fraud analytics pipelines with Kafka and Spark Structured Streaming, and automated CI/CD and data quality monitoring with Terraform, GitHub Actions, and Great Expectations.
 
-## 🚀 Selected projects
+## Selected projects
 
 **[Multi-Agent Operations Intelligence Platform](https://github.com/rethickvis/multi-agent-ops-intelligence)**
 
@@ -71,7 +71,7 @@ Python, LangGraph, Snowflake Cortex, FastAPI, Kubernetes. A supervisor LangGraph
 
 Python, Apache Spark, Kafka, Airflow, Snowflake. Distributed Spark pipelines that cleanse, enrich, validate, and aggregate streaming Kafka events into curated Snowflake datasets supporting analytics and agentic AI workloads, with checkpointing, schema enforcement, deduplication, replay controls, and automated Airflow orchestration.
 
-## 🎓 Education
+## Education
 
 **M.S. Cybersecurity and Information Assurance**, Roosevelt University, Chicago, IL &mdash; *Jan 2024 to Dec 2025*
 
